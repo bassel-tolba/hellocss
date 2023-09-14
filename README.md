@@ -1,1 +1,1 @@
-# hellocss
+# hellocss is a project meant to srenthen my css knowledge
